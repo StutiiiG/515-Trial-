@@ -1,2 +1,2 @@
 "Hello Word!"
-This is a trail Readme
+This is a trial Readme
